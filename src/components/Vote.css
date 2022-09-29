@@ -1,0 +1,7 @@
+.Vote {
+  display: flex;
+  justify-content: space-around;
+  align-items: right;
+  color: rebeccapurple;
+  font-style: italic;
+}

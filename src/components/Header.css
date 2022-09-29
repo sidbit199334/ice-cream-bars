@@ -1,0 +1,7 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  color: blueviolet;
+  font-style: italic;
+}

@@ -1,0 +1,7 @@
+.Designer {
+  display: flex;
+  justify-content: space-around;
+  align-items: right;
+  color: yellowgreen;
+  font-style: italic;
+}
