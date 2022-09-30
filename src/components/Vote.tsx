@@ -1,13 +1,18 @@
 import "./Vote.css";
 const Vote = () => {
+  // function Highlight() {
+
+  //   }
   return (
-    <header className="Vote">
+    <div className="Vote">
       <h1>Vote Here</h1>
-      <p>chocolate vanilla strawberry</p>
+      <button>chocolate</button>
+      <button>Vanilla</button>
+      <button>Strawberry</button>
       <p>chocolate</p>
       <p>strawberry</p>
       <p>vanilla</p>
-    </header>
+    </div>
   );
 };
 

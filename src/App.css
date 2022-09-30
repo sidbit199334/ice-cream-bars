@@ -1,0 +1,4 @@
+.App .MainDiv {
+  display: flex;
+  justify-content: space-between;
+}

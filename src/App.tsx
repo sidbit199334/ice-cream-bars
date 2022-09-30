@@ -9,10 +9,11 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Designer></Designer>
-      <Vote></Vote>
+      <div className="MainDiv">
+        <Designer></Designer>
+        <Vote></Vote>
+      </div>
     </div>
   );
 }
-
 export default App;

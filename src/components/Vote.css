@@ -1,7 +1,11 @@
 .Vote {
-  display: flex;
+  display: flexbox;
   justify-content: space-around;
   align-items: right;
+  justify-content: right;
   color: rebeccapurple;
   font-style: italic;
+}
+div {
+  text-align: left;
 }
